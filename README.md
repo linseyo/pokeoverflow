@@ -1,5 +1,20 @@
 # Poke Overflow
-Team Poke's Stack Overflow clone
+Team Poke's Stack Overflow Clone
+
+Completed while at Dev Bootcamp on April 10, 2017.
+Project time-frame completed over a weekend.
+
+## Skills Utilized
+- Agile
+- RSPEC testing
+- Ruby, Sinatra
+- ActiveRecord, PostgreSQL
+- HTML5, CSS3
+- Javascript, JQuery, AJAX
+
+## Project Ownership
+- While working in a team of 4, my pair and I took vertical slices to build out features of the MVP.
+- Individually I worked on the buttons-style and implementation of functionality for the buttons across the site and cleaning up the css for presentation. 
 
 ## Team Members:
 Linsey Reed, Julie Xu, Josh Mun, Nick Jarin
